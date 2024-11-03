@@ -27,7 +27,7 @@ Ejemplo de JSON para registro de usuario:
 {
   "name": "Juan Rodriguez",
   "email": "juan@rodriguez.org",
-  "password": "hunter2",
+  "password": "Juanr123",
   "phones": [
     {
       "number": "1234567",
