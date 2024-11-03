@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\junio\\source\\repos\\UsersForgeAPI\\Facts\\TestProject\\TestProject.csproj": {}
+    "C:\\Users\\junio\\OneDrive\\Escritorio\\UserForgeAPI\\Facts\\TestProject\\TestProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\junio\\source\\repos\\UsersForgeAPI\\APIs\\UserForgeAPI.csproj": {
+    "C:\\Users\\junio\\OneDrive\\Escritorio\\UserForgeAPI\\APIs\\UserForgeAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\junio\\source\\repos\\UsersForgeAPI\\APIs\\UserForgeAPI.csproj",
+        "projectUniqueName": "C:\\Users\\junio\\OneDrive\\Escritorio\\UserForgeAPI\\APIs\\UserForgeAPI.csproj",
         "projectName": "UserForgeAPI",
-        "projectPath": "C:\\Users\\junio\\source\\repos\\UsersForgeAPI\\APIs\\UserForgeAPI.csproj",
+        "projectPath": "C:\\Users\\junio\\OneDrive\\Escritorio\\UserForgeAPI\\APIs\\UserForgeAPI.csproj",
         "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\junio\\source\\repos\\UsersForgeAPI\\APIs\\obj\\",
+        "outputPath": "C:\\Users\\junio\\OneDrive\\Escritorio\\UserForgeAPI\\APIs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -105,14 +105,14 @@
         }
       }
     },
-    "C:\\Users\\junio\\source\\repos\\UsersForgeAPI\\Facts\\TestProject\\TestProject.csproj": {
+    "C:\\Users\\junio\\OneDrive\\Escritorio\\UserForgeAPI\\Facts\\TestProject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\junio\\source\\repos\\UsersForgeAPI\\Facts\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\junio\\OneDrive\\Escritorio\\UserForgeAPI\\Facts\\TestProject\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "C:\\Users\\junio\\source\\repos\\UsersForgeAPI\\Facts\\TestProject\\TestProject.csproj",
+        "projectPath": "C:\\Users\\junio\\OneDrive\\Escritorio\\UserForgeAPI\\Facts\\TestProject\\TestProject.csproj",
         "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\junio\\source\\repos\\UsersForgeAPI\\Facts\\TestProject\\obj\\",
+        "outputPath": "C:\\Users\\junio\\OneDrive\\Escritorio\\UserForgeAPI\\Facts\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\junio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -129,8 +129,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\junio\\source\\repos\\UsersForgeAPI\\APIs\\UserForgeAPI.csproj": {
-                "projectPath": "C:\\Users\\junio\\source\\repos\\UsersForgeAPI\\APIs\\UserForgeAPI.csproj"
+              "C:\\Users\\junio\\OneDrive\\Escritorio\\UserForgeAPI\\APIs\\UserForgeAPI.csproj": {
+                "projectPath": "C:\\Users\\junio\\OneDrive\\Escritorio\\UserForgeAPI\\APIs\\UserForgeAPI.csproj"
               }
             }
           }

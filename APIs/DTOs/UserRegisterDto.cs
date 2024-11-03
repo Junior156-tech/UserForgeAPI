@@ -17,14 +17,14 @@ namespace UserForgeAPI.DTOs
         /// <summary>
         /// Gets or sets the email address of the user.
         /// </summary>
-        [Required(ErrorMessage = "El correo es obligatorio.")]
+        [Required]
         public string Email { get; set; }
 
         /// <summary>
         /// Gets or sets the password of the user.
         /// </summary>
 
-        [Required(ErrorMessage = "La contraseña es obligatoria.")]
+        [Required]
         public string Password { get; set; }
 
         /// <summary>
